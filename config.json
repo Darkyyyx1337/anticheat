@@ -1,0 +1,57 @@
+{
+    "locals": "en",
+
+    "EnableAcFunctions": false,
+
+    "allLogs": true,
+    "postals": true,
+    "weaponLog": true,
+    "inlineField": true,
+
+    "playerId": true,
+    "steamId": true,
+    "steamUrl": true,
+    "discordId": true,
+    "license": true,
+    "license2": false,
+    "ip": true,
+    "playerPing": false,
+
+    "Session": true,
+    "PlayTime": false,
+    "playerHealth": false,
+    "playerArmor": false,
+    "timestamp": true,
+
+    "forceSteam": false,
+
+    "nameChangePerms": "jd.staff",
+    "logHistoryPerms": "jd.staff",
+    "screenshotPerms": "jd.staff",
+    "AntiCheatBypass": "jd.staff",
+
+    "DiscordUpdateNotify": false,
+
+    "userName": "Madness Antrenamente",
+    "avatar": "https://cdn.discordapp.com/attachments/1288182055867256996/1332087378260525236/IMG_4723.png?ex=6793fa8b&is=6792a90b&hm=a5b70e365e43698ece15c201c9ab895af5579cce1680b8849958c4abc02c0d11&",
+    "communityName": "Madness Antrenamente",
+    "communityLogo": "https://cdn.discordapp.com/attachments/1288182055867256996/1332087378260525236/IMG_4723.png?ex=6793fa8b&is=6792a90b&hm=a5b70e365e43698ece15c201c9ab895af5579cce1680b8849958c4abc02c0d11&",
+    "footerText": "Madness Antrenamente",
+    "footerIcon": "https://cdn.discordapp.com/attachments/1288182055867256996/1332087378260525236/IMG_4723.png?ex=6793fa8b&is=6792a90b&hm=a5b70e365e43698ece15c201c9ab895af5579cce1680b8849958c4abc02c0d11&",
+
+    "WeaponsNotLogged": [
+        "WEAPON_SNOWBALL",
+        "WEAPON_FIREEXTINGUISHER",
+        "WEAPON_PETROLCAN"
+    ],
+
+    "Commands": {
+        "logs": ["jdlogs", "jdlh"],
+        "screenshot": ["jdscreenshot", "jdss"]
+    },
+
+    "useESX": true,
+    "esxName": true,
+    "esxJob": true,
+    "esxMoney": true
+}

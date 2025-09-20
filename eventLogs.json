@@ -1,0 +1,27 @@
+{
+    "VehicleThrowDetection": {
+        "Event": "Prefech:ClientDetection",
+        "Message": "🚨 Vehicle Throw Detection | Player: %NAME% (%STEAM%) | Details: %EXTRA%",
+        "Channel": "anticheat",
+        "Server": true,
+        "Screenshot": true
+    },
+    "ACDebugLog": {
+        "Event": "Prefech:DebugLog",
+        "Message": "🔍 Debug Log | %EXTRA%",
+        "Channel": "anticheat",
+        "Server": true
+    },
+    "TemplateServerEvent": {
+        "Event": "EventNameHere",
+        "Message": "This is a placeholder event",
+        "Channel": "channel form webhooks.json",
+        "Server": true
+    },
+    "TemplateClientEvent": {
+        "Event": "EventNameHere",
+        "Message": "This is a placeholder event",
+        "Channel": "channel form webhooks.json",
+        "Server": false
+    }
+}
